@@ -19,3 +19,5 @@
 Функции		 | https://php.ru/manual/language.functions.html	 | --- |
 --- | --- | --- | 
 Выражения | https://php.ru/manual/language.expressions.html	 | --- |
+Оператор switch | https://php.ru/manual/control-structures.switch.html	 | --- |
+
